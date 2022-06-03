@@ -43,7 +43,7 @@ echo -e '\033[32m ▄▄▄· • ▌ ▄ ·.       .▄▄ ·
 
 
 
-cat ~/Documents/AMOS/WelcomeMessage
+echo -e 'Hello again Sabine, time is:'
 date 
 
 
